@@ -14,9 +14,9 @@ This is a feature-rich **Notes App** built using **Jetpack Compose** and **Kotli
   - **Search Selected Text**
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/c1203a30-d45e-4f58-a5bb-01404bc8707e" alt="Home Screen" width="300" />
-<img src="https://github.com/user-attachments/assets/a0b6c8fb-50b3-4143-b748-84b28826510c" alt="Home Screen" width="300" />
-<img src="https://github.com/user-attachments/assets/68da91ea-025b-42f5-9394-3156c39efdb2" alt="Home Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/c1203a30-d45e-4f58-a5bb-01404bc8707e" alt="Home Screen" width="200" />
+<img src="https://github.com/user-attachments/assets/a0b6c8fb-50b3-4143-b748-84b28826510c" alt="Home Screen" width="200" />
+<img src="https://github.com/user-attachments/assets/68da91ea-025b-42f5-9394-3156c39efdb2" alt="Home Screen" width="200" />
 
 ## Tech Stack
 - **Language**: Kotlin
