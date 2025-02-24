@@ -24,7 +24,7 @@ This is a feature-rich **Notes App** built using **Jetpack Compose** and **Kotli
 - **State Management**: ViewModel + LiveData
 - **Database**: Room DB for local storage
 - **AI Services**: Gemini API
-- 
+   
 ## Installation
 1. **Clone the repository**:
    ```sh
